@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+    transition: background-color 0.5s;
+}
+
+.bg-merah {
+    background-color: red;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    gap: 20px;
+}
+
+.slider1 {
+    width: 200px;
+    background-color: red;
+}

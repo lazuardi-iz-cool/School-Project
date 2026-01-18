@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latihan Prevent Default</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Belajar preventDefault()</h1>
+        
+        <div class="box">
+            <p>1. Mencegah link pindah halaman:</p>
+            <a href="https://google.com" id="testLink">Klik ke Google</a>
+        </div>
+
+        <div class="box">
+            <p>2. Mencegah form refresh halaman:</p>
+            <form id="testForm">
+                <input type="text" placeholder="Ketik pesan..." required>
+                <button type="submit">Kirim</button>
+            </form>
+        </div>
+
+        <p id="msg"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

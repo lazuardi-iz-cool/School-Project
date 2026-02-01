@@ -1,26 +1,44 @@
-# School-Project
+# 🎓 School-Project: My Web Dev Journey
 
-### Bahasa Indonesia
-Repositori ini berisi kumpulan proyek latihan yang saya kerjakan selama di sekolah. Setiap folder di sini mewakili proses belajar saya dalam menguasai pengembangan web dasar dan logika pemrograman. Proyek ini mencakup manipulasi DOM, eksperimen warna, permainan sederhana, hingga aplikasi produktivitas.
+![Build Status](https://img.shields.io/badge/status-active-brightgreen)
+![Tech Stack](https://img.shields.io/badge/stack-HTML5%20|%20CSS3%20|%20JS-blue)
+![OS](https://img.shields.io/badge/OS-Kali%20Linux-blueviolet)
 
-> **Catatan Penting**: Jika ada bagian yang tidak diisi atau hanya dikerjakan setengah, itu berarti saya belum mempelajari materi tersebut sepenuhnya. Proyek ini adalah catatan perkembangan belajar saya yang jujur.
-
-**Daftar Proyek:**
-* **ToDoList**: Aplikasi daftar tugas dengan fitur pelacak tugas dan *easter egg* personal.
-* **SuwitJawa**: Permainan tradisional Suwit Jawa berbasis JavaScript.
-* **DOMTraversal**: Latihan memahami struktur dan navigasi elemen HTML.
-* **EksperimenWarna**: Eksperimen interaktif untuk memanipulasi warna latar belakang.
+Repositori ini adalah jurnal digital dari proses belajar saya dalam pengembangan web dan logika pemrograman. Setiap baris kode di sini mewakili eksperimen, kegagalan, dan akhirnya, pemahaman.
 
 ---
 
-### English
-This repository contains a collection of practice projects developed during my school years. Each folder represents my learning journey in mastering basic web development and programming logic. These projects cover DOM manipulation, color experiments, simple games, and productivity apps.
+## 📂 Daftar Proyek & Materi
 
-> **Important Note**: If there are sections left blank or only partially completed, it means I have not yet fully studied or mastered that specific topic. This repository serves as an honest record of my learning progress.
+| Proyek | Deskripsi | Materi Utama |
+| :--- | :--- | :--- |
+| **[PreventDefault](./PreventDefault)** | Memahami cara mengontrol perilaku bawaan browser pada link & form. | Event Handling |
+| **[ToDoList](./ToDoList)** | Aplikasi produktivitas dengan fitur pelacak tugas & *easter egg*. | Local Storage & DOM |
+| **[SuwitJawa](./SuwitJawa)** | Permainan tradisional berbasis logika JavaScript. | Logic & Math Object |
+| **[DOMTraversal](./DOMTraversal)** | Latihan navigasi antar elemen HTML (Parent, Child, Sibling). | DOM Trees |
+| **[EksperimenWarna](./EksperimenWarna)** | Manipulasi visual interaktif pada latar belakang. | Event Listeners |
 
-**Project List:**
-* **ToDoList**: A task management app featuring a task tracker and a personal easter egg.
-* **SuwitJawa**: A JavaScript-based traditional Javanese "Suwit" game.
-* **DOMTraversal**: Exercises in understanding HTML element structure and navigation.
-* **EksperimenWarna**: Interactive experiments for background color manipulation.
-EOF
+---
+
+## 🛠️ Lingkungan Pengembangan
+Proyek-proyek ini dikembangkan menggunakan:
+* **OS:** Kali Linux (XFCE)
+* **Editor:** Visual Studio Code / Terminal
+* **Version Control:** Git & GitHub
+
+## 📝 Catatan Penting
+> **"Honesty is the first chapter in the book of wisdom."**
+> Jika terdapat bagian yang belum selesai, itu adalah indikator nyata dari batas pemahaman saya pada saat itu. Proyek ini tidak dirancang untuk menjadi sempurna, melainkan untuk menjadi **jujur**.
+
+---
+
+## English Version
+This repository serves as a digital journal of my journey in mastering web development. Every line of code represents experiments, failures, and ultimately, breakthroughs.
+
+### 🚀 Key Takeaways
+- Mastery of **DOM Manipulation**.
+- Understanding **Event Handlers** and browser behavior.
+- Building interactive and functional logic using **Vanilla JavaScript**.
+
+---
+*Created with 💻 and determination by [Nama Kamu/Username GitHub]*

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Simple ToDo</title>
+  <link rel="stylesheet" href="style.css">
+
+  <link rel="icon" type="image/png" href="img/PPLG.png">
+</head>
+<body>
+   <div class="card-wrapper-name">
+      <img src="img/PPLG.png" alt="" style="height: 100px;">
+      <div class="text-container">
+        <h1>
+         Muhammad Eka Lazuardi
+        </h1>
+        <p>
+        Sebuah ToDo List yang saya desain sendiri dengan bantuan mesin.
+        <br>
+        Dapat digunakan untuk mengatur dan memudahkan mengelola
+        <br>
+        daftar tugas
+        </p>
+       </div>
+   </div>
+
+    <div class="card">
+        <h1>ToDo List</h1>
+        <p id="todo-stats">Total Tugas: 0</p>
+
+        <ul id="todo-list"></ul>
+
+        <div>
+          <input type="text" id="todo-input" placeholder="Tulis tugas...">
+          <div class="button-group">
+            <button id="clear-btn">Bersihkan Semua</button>
+            <button id="add-btn">Tambah</button>
+          </div>
+        </div>
+    </div>
+<script src="script.js"></script>
+</body>
+</html>
